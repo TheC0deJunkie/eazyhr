@@ -3,7 +3,7 @@
 A multi-tenant HR and payroll platform for South African businesses, where the employee side runs
 entirely through one WhatsApp Business contact and the employer side is a web dashboard.
 
-[eazyhr.ai](https://eazyhr.ai). No longer maintained.
+No longer maintained.
 
 ![screenshot](docs/screenshot.jpg)
 
